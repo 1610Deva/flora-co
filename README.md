@@ -7,6 +7,9 @@ Website sederhana untuk florist yang dibuat menggunakan **HTML, CSS, Bootstrap, 
 
 ![Home Page](https://github.com/1610Deva/flora-co/blob/423e5a2e620438e505c5b2628468dbedc43931bd/img/screely-1760578450933.png)
 
+## Link Youtube
+https://youtu.be/Wu4tIXu2AzI
+
 ## ✨ Deskripsi
 
 **Flora-co** adalah proyek web sederhana yang menyediakan tampilan toko bunga (florist) secara online. Website ini dirancang untuk memudahkan pengguna melihat produk bunga, informasi tentang toko, serta melakukan kontak dengan penjual.
